@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><nlist format="pan" name="profile">
+    <list name="alpha">
+        <long>1</long>
+        <long>2</long>
+        <long>3</long>
+        <long>4</long>
+    </list>
+    <nlist name="beta">
+        <string name="delta">OK</string>
+        <boolean name="epsilon">true</boolean>
+        <string name="gamma">OK</string>
+        <double name="zeta">3.14</double>
+    </nlist>
+</nlist>
